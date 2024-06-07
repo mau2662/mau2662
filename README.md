@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>¡Hola! Soy un estudiante apasionado de ingeniería de sistemas a punto de completar mi bachillerato en menos de 10 meses. Mi verdadera pasión es la programación, y disfruto enfrentando desafíos que me permiten aplicar mis habilidades y conocimientos. Me destaco por mi capacidad para resolver problemas de manera efectiva y creativa. La resolución de problemas no solo es una habilidad para mí, sino una fuente de motivación y satisfacción. Estoy ansioso por seguir aprendiendo y creciendo en el emocionante mundo de la ingeniería de sistemas.
+<br>Hello! I am a passionate systems engineering student about to complete my bachelor's degree in less than 5 months. My true passion is programming, and I enjoy facing challenges that allow me to apply my skills and knowledge. I stand out for my ability to solve problems effectively and creatively. Problem solving is not only a skill for me, but a source of motivation and satisfaction. I am eager to continue learning and growing in the exciting world of systems engineering.
 
 
 ## 🌐 Socials:
